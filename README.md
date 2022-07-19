@@ -20,3 +20,7 @@ https://www.kaggle.com/datasets/parisrohan/nyc-taxi-trip-duration
 
 ## 3.1. eda-nyc-taxi-trip.ipynb 
 * Performed Exploratory Data Analysis on the given dataset
+
+## 3.2. FtEngineering_ModelBuilding-nyc-taxi-trip.ipynb
+* Performed feature engineering on the dataset
+* Built models like - Baseline model using mean, Linear Regression Model, Decision Tree Model
